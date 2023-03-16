@@ -51,7 +51,7 @@
     "@prisma/generator-helper": "workspace:*",
     "@prisma/get-platform": "3.9.0-58.bcc2ff906db47790ee902e7bbc76d7ffb1893009",
     "chalk": "4.1.2",
-    "execa": "5.1.1",
+    "execa": "7.1.1",
     "get-stream": "6.0.1",
     "indent-string": "4.0.0",
     "new-github-issue-url": "0.2.1",
